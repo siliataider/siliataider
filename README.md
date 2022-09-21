@@ -49,7 +49,7 @@
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/siliataider/siliataider/main/images/instagram.svg" alt="Silia TAIDER | Instagram" width="21px"/></a><br/>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<!---  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) --->
 [![Silia's github stats](https://github-readme-stats.vercel.app/api?username=siliataider)](https://github.com/siliataider)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=siliataider.siliataider)]
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=siliataider.siliataider)
