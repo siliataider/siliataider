@@ -20,4 +20,6 @@
 
 <a href=”https://www.instagram.com/siliataider/"><img align=”left” src=”https://raw.githubusercontent.com/siliataider/siliataider/main/images/instagram.svg" alt=”Yu Shi | Instagram” width=”21px”/></a>
 
+<a href=”https://www.linkedin.com/in/silia-taider-021538176/"><img align=”left” src=”https://raw.githubusercontent.com/siliataider/siliataider/master/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
