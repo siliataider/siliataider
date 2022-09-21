@@ -17,8 +17,8 @@
 &nbsp;
 [<img align="left" alt="Instagram" width="22px" src="![icons8-instagram-48](https://user-images.githubusercontent.com/69010419/191536034-bc07fe85-0430-4e9e-ae09-cf0c41b88a89.png)" /> ](https://www.instagram.com/siliataider)
 
-<a href=”https://www.linkedin.com/in/silia-taider-021538176/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/silia-taider-021538176/"><img align=”left” src=”https://raw.githubusercontent.com/siliataider/siliataider/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
-<a href=”https://www.instagram.com/siliataider/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt=”Yu Shi | Instagram” width=”21px”/></a>
+<a href=”https://www.instagram.com/siliataider/"><img align=”left” src=”https://raw.githubusercontent.com/siliataider/siliataider/main/images/instagram.svg" alt=”Yu Shi | Instagram” width=”21px”/></a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
