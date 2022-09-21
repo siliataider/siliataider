@@ -47,5 +47,5 @@
 ### 😄 Or more casually on
 
 <a href="https://www.linkedin.com/in/silia-taider-021538176/"><img align="left" src="https://raw.githubusercontent.com/siliataider/siliataider/main/images/linkedin.svg" alt="Silia TAIDER | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/siliataider"><img align="left" src="https://raw.githubusercontent.com/siliataider/siliataider/main/images/instagram.svg" alt="Silia TAIDER | Instagram" width="21px"/></a><br/>
+<a href="https://instagram.com/silia_taider"><img align="left" src="https://raw.githubusercontent.com/siliataider/siliataider/main/images/instagram.svg" alt="Silia TAIDER | Instagram" width="21px"/></a><br/>
 
