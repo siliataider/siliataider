@@ -23,15 +23,8 @@
 ![](https://img.shields.io/badge/Code-VHDL-informational?style=flat&logo=JavaScript&color=DB7093)
 ![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=JavaScript&color=0081CB)
 
-
-
-
-</br>
-
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-</br>
 
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
