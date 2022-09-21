@@ -9,6 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
