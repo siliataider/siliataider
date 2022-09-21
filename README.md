@@ -15,7 +15,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/silia-taider-021538176/)
 &nbsp;
-[<img align="left" alt="Instagram" width="22px" src="![image](https://user-images.githubusercontent.com/69010419/191535627-ae35db66-2e95-4bca-822c-4798d4240016.png)" /> Instagram](https://www.instagram.com/siliataider)
+[<img align="left" alt="Instagram" width="22px" src="![icons8-instagram-48](https://user-images.githubusercontent.com/69010419/191536034-bc07fe85-0430-4e9e-ae09-cf0c41b88a89.png)" /> ](https://www.instagram.com/siliataider)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
