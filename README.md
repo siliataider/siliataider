@@ -16,7 +16,9 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/silia-taider-021538176/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![Instagram](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][https://www.instagram.com/siliataider]
+
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siliataider&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
