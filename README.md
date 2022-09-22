@@ -37,7 +37,8 @@
 ![](https://img.shields.io/badge/Tools-LTSpice-informational?style=flat&logo=LTSpice&color=DB7093)
 
 <!---  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siliataider&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!---  (https://github.com/anuraghazra/github-readme-stats) --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siliataider&theme=dracula&layout=compact)]
 [![Silia's github stats](https://github-readme-stats.vercel.app/api?username=siliataider&theme=dracula&count_private=true&hide=stars,prs,issues)](https://github.com/siliataider)
 
 
