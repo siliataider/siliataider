@@ -39,7 +39,6 @@
 <!---  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siliataider&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Silia's github stats](https://github-readme-stats.vercel.app/api?username=siliataider&theme=dracula&count_private=true&hide=stars,prs,issues)](https://github.com/siliataider)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siliataider&theme=dracula&layout=compact)]
 
 
 ### 📫 You can contact me at 
