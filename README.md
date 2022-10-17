@@ -3,7 +3,7 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=siliataider.siliataider)
 
 💬 First-year master's student at CPE Lyon Engineering school.  
-🔭 Majoring in Software Design and Big Data at CPE Lyon Engineering school.  
+🔭 Majoring in Software Design and Big Data.  
 ⚡ Firmware Development Intern at Maxlinear Germany GmbH.  
 
 <!--- 
