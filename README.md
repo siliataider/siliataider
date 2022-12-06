@@ -28,6 +28,8 @@
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-Springboot-informational?style=flat&logo=Springboot&color=DBE093)
+![](https://img.shields.io/badge/Tools-Qt-informational?style=flat&logo=Qt&color=FF9C37)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Eclipse-informational?style=flat&logo=Eclipse&color=F24E1E)
