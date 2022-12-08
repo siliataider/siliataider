@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&color=CB3837)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&color=736791)
-![](https://img.shields.io/badge/Tools-MangoDB-informational?style=flat&logo=MangoDB&color=E367C1)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&color=E367C1)
 ![](https://img.shields.io/badge/Tools-Simulink-informational?style=flat&logo=Simulink&color=2C8EBB)
 ![](https://img.shields.io/badge/Tools-Labview-informational?style=flat&logo=Labview&color=003B57)
 ![](https://img.shields.io/badge/Tools-LTSpice-informational?style=flat&logo=LTSpice&color=DB7093)
