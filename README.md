@@ -4,7 +4,7 @@
 
 💬 First-year master's student at CPE Lyon Engineering school.  
 🔭 Majoring in Software Design and Big Data.  
-⚡ Firmware Development Intern at Maxlinear Germany GmbH.  
+⚡ ROOT development intern at CERN. 
 
 <!--- 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siliataider&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
