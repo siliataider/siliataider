@@ -1,5 +1,5 @@
 <!-- ## 👋 Hello World, this is Silia -->
-<img src="https://raw.githubusercontent.com/siliataider/siliataider/main/images/github-header-image.png"/>
+
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=siliataider.siliataider) -->
 
 💬 First-year master's student at CPE Lyon Engineering school.  
