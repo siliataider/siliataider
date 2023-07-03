@@ -1,6 +1,6 @@
-## 👋 Hello World, this is Silia 
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=siliataider.siliataider)
+<!-- ## 👋 Hello World, this is Silia -->
+<img src="https://raw.githubusercontent.com/siliataider/siliataider/main/images/github-header-image.png"/>
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=siliataider.siliataider) -->
 
 💬 First-year master's student at CPE Lyon Engineering school.  
 🔭 Majoring in Software Design and Big Data.  
@@ -9,7 +9,7 @@
 <!--- 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siliataider&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 --->
-## 💼 Technical Skills
+## 💼 Technology Stack
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=61DAFB)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&color=336791)
@@ -43,9 +43,10 @@
 
 <!---  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) --->
 <!---  (https://github.com/anuraghazra/github-readme-stats) --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siliataider&theme=dracula&layout=compact)](https://github.com/siliataider)
-![Silia's github stats](https://github-readme-stats.vercel.app/api?username=siliataider&theme=dracula&show_icons=true&hide=stars,prs,issues)
 
+## Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siliataider&theme=github_dark&layout=compact)](https://github.com/siliataider)
+![Silia's github stats](https://github-readme-stats.vercel.app/api?username=siliataider&theme=github_dark&show_icons=true&hide=stars,prs,issues)
 
 ### 📫 You can contact me at 
 
