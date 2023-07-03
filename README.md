@@ -44,15 +44,14 @@
 <!---  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) --->
 <!---  (https://github.com/anuraghazra/github-readme-stats) --->
 
-## Github Stats
+## :small_red_triangle: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siliataider&theme=github_dark&layout=compact)](https://github.com/siliataider)
 ![Silia's github stats](https://github-readme-stats.vercel.app/api?username=siliataider&theme=github_dark&show_icons=true&hide=stars,prs,issues)
 
-### 📫 You can contact me at 
-
+## 📫 You can reach me Through
 **silia.taider@cpe.fr**
 
-### 😄 Or more casually on
+<!-- ### 😄 Or more casually on -->
 
 <a href="https://www.linkedin.com/in/silia-taider-021538176/"><img align="left" src="https://raw.githubusercontent.com/siliataider/siliataider/main/images/linkedin.svg" alt="Silia TAIDER | LinkedIn" width="30px"/></a>
 <a href="https://instagram.com/silia_taider"><img align="left" src="https://raw.githubusercontent.com/siliataider/siliataider/main/images/instagram.svg" alt="Silia TAIDER | Instagram" width="30px"/></a><br/>
