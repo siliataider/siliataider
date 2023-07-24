@@ -22,7 +22,8 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=Bash&color=003B57)
 ![](https://img.shields.io/badge/Code-VHDL-informational?style=flat&logo=VHDL&color=DB7093)
-![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=Assembly&color=0081CB)
+![](https://img.shields.io/badge/Code-ROOT-informational?style=flat&logo=Root&color=0081CB)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&color=61DAAB)
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
