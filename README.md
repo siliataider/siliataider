@@ -47,7 +47,7 @@
 
 ## :small_red_triangle: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siliataider&theme=github_dark&layout=compact)](https://github.com/siliataider)
-![Silia's github stats](https://github-readme-stats.vercel.app/api?username=siliataider&theme=github_dark&show_icons=true&hide=stars,prs,issues)
+![Silia's github stats](https://github-readme-stats.vercel.app/api?username=siliataider&theme=github_dark&show_icons=true&hide=stars)
 
 ## 📫 You can reach me Through
 **silia.taider@cpe.fr**
