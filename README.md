@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/siliataider/siliataider/main/images/github_header.png"/>
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=siliataider.siliataider) -->
 
-💬 First-year master's student at CPE Lyon Engineering school.  
+💬 Second-year master's student at CPE Lyon Engineering school.  
 🔭 Majoring in Software Design and Big Data.  
 ⚡ ROOT development summer student at CERN. 
 
