@@ -4,7 +4,7 @@
 
 💬 Second-year master's student at CPE Lyon Engineering school.  
 🔭 Majoring in Software Design and Big Data.  
-⚡ ROOT development summer student at CERN. 
+⚡ Software developer at CERN - Experimental Physics department - LHCb Experiment (Technical Student Programme). 
 
 <!--- 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siliataider&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
