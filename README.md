@@ -50,7 +50,7 @@
 ![Silia's github stats](https://github-readme-stats.vercel.app/api?username=siliataider&theme=github_dark&show_icons=true&hide=stars)
 
 ## 📫 You can reach me Through
-**silia.taider@cpe.fr**
+**silia.taider@cern.ch**
 
 <!-- ### 😄 Or more casually on -->
 
