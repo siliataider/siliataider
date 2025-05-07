@@ -1,10 +1,9 @@
 <!-- ## 👋 Hello World, this is Silia -->
-<img src="https://raw.githubusercontent.com/siliataider/siliataider/main/images/github_header.png"/>
+<!-- <img src="https://raw.githubusercontent.com/siliataider/siliataider/main/images/github_header.png"/> -->
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=siliataider.siliataider) -->
 
-⚡ Software developer at CERN - Experimental Physics department - LHCb Experiment (Technical Student Programme).  
-💬 Second-year master's student at CPE Lyon Engineering school.  
-🔭 Majoring in Software Design and Big Data.  
+⚡ Software developer (fellow) at CERN - Experimental Physics department - ROOT Team.  
+💬 Engineering degree from CPE Lyon Engineering school in Software Design and Big Data.  
 
 <!--- 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siliataider&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
